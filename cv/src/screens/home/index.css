@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 99vw;
+    height: 110vh;
+  }
+  .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 30vw;
+  }
+  .document{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 100vh;
+    width: 38vw;
+  }

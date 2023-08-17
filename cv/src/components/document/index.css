@@ -1,0 +1,47 @@
+.document{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #fac650;
+    color: #393e46
+}
+.header h1{
+    font-size: 3vh;
+    margin-bottom: 1vh;
+}
+.icons{
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+    flex-direction: row
+}
+.icons h1{
+    font-size: 1.5vh;
+}
+.document-main{
+    display: flex;
+    flex-direction: column;
+    flex: 6;
+    width: 80%;
+    margin-top: 5vh;
+    align-items: baseline;
+    color: #393e46
+}
+.education{
+    margin-bottom: 20vh;
+}
+.education h1{
+    font-size: 3vh;
+}
+.experience h1{
+    font-size: 3vh;
+}
